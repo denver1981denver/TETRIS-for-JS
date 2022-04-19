@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(235, 222, 229);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1 span {
+  font-weight: 900;
+  font-size: 60px;
+  color: blueviolet;
+  text-shadow: 5px 5px 9px black;
+}
+
+.container {
+  width: 300px;
+  margin: 0 auto;
+  box-shadow: 5 5 8px black;
+}
+
+.game-area {
+  border: solid black;
+  border-width: 0 5px 8px 5px;
+  display: block;
+  box-shadow: 5px 5px 9px rgb(20, 19, 19);
+  background-color: rgb(164, 166, 89);
+}
