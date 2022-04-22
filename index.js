@@ -162,7 +162,7 @@ const btnEnter = document.querySelector('.btn__enter');
 btnEnter.addEventListener('click', () => {
 	container.style.display = 'block';
 });
-// ......................................................
+// .............................................................
 
 const showArea = area => {
 	context.clearRect(0, 0, canvas.width, canvas.height)
