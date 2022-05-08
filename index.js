@@ -157,11 +157,11 @@ const context = canvas.getContext('2d');
 // домашнее задание Напишите обработчик события по нажатию на Enter, чтобы начать игру
 // Только после нажатия на Enter появляется игровое поле и можно двигать фигуры
 
-const btnEnter = document.querySelector('.btn__enter');
+// const btnEnter = document.querySelector('.btn__enter');
 
-btnEnter.addEventListener('click', () => {
-	container.style.display = 'block';
-});
+// btnEnter.addEventListener('click', () => {
+// 	container.style.display = 'block';
+// });
 // .............................................................
 
 const showArea = area => {
