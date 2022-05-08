@@ -206,3 +206,5 @@ window.addEventListener('keydown', event => {
 });
 
 showArea(game.viewArea);
+
+// изменения
