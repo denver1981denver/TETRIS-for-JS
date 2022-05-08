@@ -87,7 +87,6 @@ game.moveDown();
 game.moveDown();
 game.moveDown();
 
-
 // отрисовка
 const container = document.querySelector('.container');
 const canvas = document.createElement('canvas');
