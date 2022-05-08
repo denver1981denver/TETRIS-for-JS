@@ -32,7 +32,7 @@ const game = {
 		block: [
 			['o', 'x', 'x'],
 			['o', 'x', 'o'],
-			['0', 'x', 'o'],
+			['o', 'x', 'o'],
 		]
 	},
 	
@@ -86,6 +86,8 @@ game.moveRight();
 game.moveDown();
 game.moveDown();
 game.moveDown();
+
+
 
 // отрисовка
 const container = document.querySelector('.container');
