@@ -17,21 +17,6 @@ h1 span {
   color: blueviolet;
   text-shadow: 5px 5px 9px black;
 }
-/* домашнее задание */
-/* .btn__enter {
-  width: 100px;
-  margin-left: 680px;
-  margin-bottom: 10px;
-  padding: 5px 0;
-  font-size: 20px;
-  background-color: rgb(219, 219, 22);
-  border-radius: 10px;
-  cursor: pointer;
-} */
-
-/* .btn__enter:hover {
-  color: red;
-} */
 
 .container {
   width: 300px;
