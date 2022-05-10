@@ -22,6 +22,7 @@ h1 span {
   width: 300px;
   margin: 0 auto;
   box-shadow: 5 5 8px black;
+  display: none;
 }
 
 .game-area {
